@@ -20,6 +20,7 @@ ADMIN_ID     = 7681037970               # ← ТВОЙ Telegram ID (узнай �
 
 SPONSORS = [
     {"name": "doozmbot",    "channel_id": "@doozmbot"},
+    {"name": "gamestarsyknews",    "channel_id": "@gamestarsyknews"},
     {"name": "suetastarss", "channel_id": "@suetastarss"},
     {"name": "imasta4",     "channel_id": "@imasta4"},
     {"name": "mxdarka",     "channel_id": "@mxdarka"},
