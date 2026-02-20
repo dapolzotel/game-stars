@@ -17,6 +17,7 @@ BOT_USERNAME = "gamestarsykbot"     # username бота БЕЗ @
 SPONSORS = [
     {"name": "doozmbot",    "channel_id": "@doozmbot"},
     {"name": "suetastarss", "channel_id": "@suetastarss"},
+    {"name": "gamestarsyknews", "channel_id": "@gamestarsyknews"},
     {"name": "imasta4",     "channel_id": "@imasta4"},
     {"name": "mxdarka",     "channel_id": "@mxdarka"},
 ]
